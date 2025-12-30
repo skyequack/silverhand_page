@@ -1,0 +1,4 @@
+Placeholder: hero-render-1.png
+This file should be replaced with a high-quality render or photo of the SilverHand exoskeleton.
+Recommended size: 1920×1080px
+Format: PNG or JPG

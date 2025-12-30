@@ -1,0 +1,4 @@
+Placeholder: diagram-control-arch.svg
+This file should be replaced with system control architecture block diagram.
+Format: SVG (preferred) or high-res PNG
+Content: Arduino → Pi Zero → Pico → Servos control flow

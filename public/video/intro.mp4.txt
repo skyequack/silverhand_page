@@ -1,0 +1,5 @@
+Placeholder: intro.mp4
+This file should be replaced with a 30-60 second introduction/overview video.
+Format: MP4 (H.264 codec)
+Max size: 20 MB
+Content: Brief project overview, showing exoskeleton in action

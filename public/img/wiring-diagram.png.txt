@@ -1,0 +1,4 @@
+Placeholder: wiring-diagram.png
+This file should be replaced with assembly wiring diagram.
+Format: PNG (high resolution)
+Content: Color-coded wiring connections between all components

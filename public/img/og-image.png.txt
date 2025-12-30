@@ -1,0 +1,5 @@
+Placeholder: og-image.png
+This file should be replaced with a social media preview image.
+Recommended size: 1200×630px
+Format: PNG or JPG
+Content: Logo + project name + tagline

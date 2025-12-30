@@ -1,0 +1,5 @@
+Placeholder: demo-emg-motion.mp4
+This file should be replaced with real-time EMG → servo motion demonstration.
+Format: MP4 (H.264 codec)
+Duration: ~45 seconds
+Content: Split screen showing EMG signal and corresponding servo/finger motion

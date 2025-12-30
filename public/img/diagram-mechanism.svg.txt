@@ -1,0 +1,4 @@
+Placeholder: diagram-mechanism.svg
+This file should be replaced with a technical diagram showing the biomechanics and four-bar linkage mechanism.
+Format: SVG (preferred) or high-res PNG
+Content: Servo → linkage → finger joint kinematic diagram

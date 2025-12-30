@@ -1,0 +1,4 @@
+Placeholder: diagram-emg-chain.svg
+This file should be replaced with EMG signal processing chain diagram.
+Format: SVG (preferred) or high-res PNG
+Content: Electrodes → INA128 → Filter → Rectifier → ADC → Controller

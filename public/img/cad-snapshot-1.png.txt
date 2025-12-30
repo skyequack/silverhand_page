@@ -1,0 +1,4 @@
+Placeholder: cad-snapshot-1.png
+This file should be replaced with CAD software screenshot/render.
+Format: PNG (high resolution, 1920×1080px)
+Content: Isometric view of assembled exoskeleton
